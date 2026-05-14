@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Malay Maity</h1>
-<h3 align="center">🚀 Full Stack Software Engineer | MERN Stack Developer | Backend Enthusiast</h3>
+<h3 align="center"> Full Stack Software Engineer | MERN Stack Developer | Backend Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/malayofficialcse-dev">
@@ -12,36 +12,36 @@
 
 ---
 
-# 💫 About Me
+#  About Me
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-💻 Passionate Full Stack Developer focused on building scalable and high-performance web applications.
+Passionate Full Stack Developer focused on building scalable and high-performance web applications.
 
-🚀 Currently working on:
+ Currently working on:
 - ERP Systems
 - Real-time Applications
 - Scalable Backend Architectures
 
-🌱 Exploring:
+ Exploring:
 - Advanced Backend Engineering
 - System Design
 - Microservices
 - DevOps Fundamentals
 
-⚡ Strong Interest In:
+ Strong Interest In:
 - Clean Architecture
 - REST APIs
 - GraphQL APIs
 - Authentication & Security
 - Performance Optimization
 
-📫 Reach Me:
+Reach Me:
 **malay.official.cse@gmail.com**
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
@@ -63,20 +63,28 @@
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
-## 🚀 Frontend Development
+##  Frontend Development
 
-<p align="left">
+<p align="right">
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,bootstrap,vite" />
 </p>
 
 ---
 
-## ⚙️ Backend Development
+## Backend Development
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,graphql" />
+</p>
+
+---
+
+## Tools & Platforms
+
+<p align="right">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn,linux" />
 </p>
 
 ---
@@ -141,17 +149,9 @@
 
 ---
 
-## 🧰 Tools & Platforms
+#  Featured Projects
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn,linux" />
-</p>
-
----
-
-# 📌 Featured Projects
-
-## 🚀 ERP Management System
+## ERP Management System
 > Scalable ERP platform with authentication, dashboards, employee management, and real-time modules.
 
 ### Tech Used
@@ -162,7 +162,7 @@
 
 ---
 
-## 📈 Stock Market Dashboard
+##  Stock Market Dashboard
 > Real-time stock trading dashboard with live candlestick chart updates and portfolio management.
 
 ### Features
@@ -173,7 +173,7 @@
 
 ---
 
-## 🎥 Real-Time Video Calling App
+## Real-Time Video Calling App
 > WebRTC-based video conferencing application with Socket.io integration.
 
 ### Features
@@ -209,45 +209,19 @@
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=malayofficialcse-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=58A6FF&point=F8D866&color=FFFFFF"/>
 
 </p>
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=malayofficialcse-dev&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
----
-
-# 🏆 GitHub Trophies
+#  GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=malayofficialcse-dev&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
----
-
-# ⚡ Coding Profiles
-
-<p align="left">
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-000?style=for-the-badge&logo=geeksforgeeks&logoColor=green"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-000?style=for-the-badge&logo=hackerrank&logoColor=green"/>
-</a>
-</p>
 
 ---
 
-# ✨ Fun Fact
+#  Fun Fact
 
 ```js
 while(alive){
