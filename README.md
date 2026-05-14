@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./image.JPEG" alt="Malay Maity Banner" width="100%" />
+</p>
 <h1 align="center">Hey 👋, I'm Malay Maity</h1>
 <h3 align="center"> Full Stack Software Engineer | MERN Stack Developer | Backend Enthusiast</h3>
 
