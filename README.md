@@ -149,41 +149,6 @@ Reach Me:
 
 ---
 
-#  Featured Projects
-
-## ERP Management System
-> Scalable ERP platform with authentication, dashboards, employee management, and real-time modules.
-
-### Tech Used
-- MERN Stack
-- TypeScript
-- Redux Toolkit
-- Tailwind CSS
-
----
-
-##  Stock Market Dashboard
-> Real-time stock trading dashboard with live candlestick chart updates and portfolio management.
-
-### Features
-- Real-time Data
-- Authentication
-- Interactive Charts
-- Responsive UI
-
----
-
-## Real-Time Video Calling App
-> WebRTC-based video conferencing application with Socket.io integration.
-
-### Features
-- Video/Audio Calls
-- Screen Sharing
-- Real-time Messaging
-
----
-
-
 
 # Contribution & Activity
 
