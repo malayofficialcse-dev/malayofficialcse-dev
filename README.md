@@ -13,6 +13,11 @@
 </p>
 
 ---
+<!-- ✨ Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;Open+Source+Contributor;Building+Awesome+Projects"/>
+</p>
+
 
 #  About Me
 
@@ -69,7 +74,7 @@ Reach Me:
 
 ##  Frontend Development
 
-<p align="right">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,bootstrap,vite" />
 </p>
 
@@ -155,17 +160,13 @@ Reach Me:
 # Contribution & Activity
 
 <p align="center">
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malayofficialcse-dev&theme=tokyonight"/>
 
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malayofficialcse-dev&theme=github_dark"/>
 
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=malayofficialcse-dev&theme=tokyonight"/>
-
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=malayofficialcse-dev&theme=tokyonight"/>
-
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malayofficialcse-dev&theme=tokyonight"/>
-
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=malayofficialcse-dev&theme=tokyonight"/>
-
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=malayofficialcse-dev&theme=github_dark"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=malayofficialcse-dev&theme=github_dark"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malayofficialcse-dev&theme=github_dark"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=malayofficialcse-dev&theme=github_dark"/>
 
 </p>
 
@@ -173,7 +174,7 @@ Reach Me:
 
 <p align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=malayofficialcse-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=58A6FF&point=F8D866&color=FFFFFF"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=malayofficialcse-dev&theme=github-dark&hide_border=true&bg_color=0D1117&line=58A6FF&point=F78166&color=C9D1D9"/>
 
 </p>
 
@@ -204,3 +205,11 @@ while(alive){
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+
+</div>
+
