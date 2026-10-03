@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ai.jpeg" alt="Malay Maity Banner" width="100%" />
+  <img src="./baner.jpeg" alt="Malay Maity Banner" width="100%" />
 </p>
 <h3 align="center"> Full Stack Software Engineer | MERN Stack Developer | Backend Enthusiast</h3>
 
